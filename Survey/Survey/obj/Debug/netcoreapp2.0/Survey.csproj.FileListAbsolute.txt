@@ -1,0 +1,11 @@
+D:\Code\C#\Learning C#\Survey\Survey\bin\Debug\netcoreapp2.0\Survey.deps.json
+D:\Code\C#\Learning C#\Survey\Survey\bin\Debug\netcoreapp2.0\Survey.runtimeconfig.json
+D:\Code\C#\Learning C#\Survey\Survey\bin\Debug\netcoreapp2.0\Survey.runtimeconfig.dev.json
+D:\Code\C#\Learning C#\Survey\Survey\bin\Debug\netcoreapp2.0\Survey.dll
+D:\Code\C#\Learning C#\Survey\Survey\bin\Debug\netcoreapp2.0\Survey.pdb
+D:\Code\C#\Learning C#\Survey\Survey\obj\Debug\netcoreapp2.0\Survey.csprojResolveAssemblyReference.cache
+D:\Code\C#\Learning C#\Survey\Survey\obj\Debug\netcoreapp2.0\Survey.csproj.CoreCompileInputs.cache
+D:\Code\C#\Learning C#\Survey\Survey\obj\Debug\netcoreapp2.0\Survey.AssemblyInfoInputs.cache
+D:\Code\C#\Learning C#\Survey\Survey\obj\Debug\netcoreapp2.0\Survey.AssemblyInfo.cs
+D:\Code\C#\Learning C#\Survey\Survey\obj\Debug\netcoreapp2.0\Survey.dll
+D:\Code\C#\Learning C#\Survey\Survey\obj\Debug\netcoreapp2.0\Survey.pdb
