@@ -1,0 +1,11 @@
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.0\JobCandidate.deps.json
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.0\JobCandidate.runtimeconfig.json
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.0\JobCandidate.runtimeconfig.dev.json
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.0\JobCandidate.dll
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\bin\Debug\netcoreapp2.0\JobCandidate.pdb
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.0\JobCandidate.csprojResolveAssemblyReference.cache
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.0\JobCandidate.csproj.CoreCompileInputs.cache
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.0\JobCandidate.AssemblyInfoInputs.cache
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.0\JobCandidate.AssemblyInfo.cs
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.0\JobCandidate.dll
+D:\Code\C#\Learning C#\JobCandidate\JobCandidate\obj\Debug\netcoreapp2.0\JobCandidate.pdb
