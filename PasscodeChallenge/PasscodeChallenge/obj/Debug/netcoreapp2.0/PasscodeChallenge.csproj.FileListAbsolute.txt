@@ -1,0 +1,11 @@
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\bin\Debug\netcoreapp2.0\PasscodeChallenge.deps.json
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\bin\Debug\netcoreapp2.0\PasscodeChallenge.runtimeconfig.json
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\bin\Debug\netcoreapp2.0\PasscodeChallenge.runtimeconfig.dev.json
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\bin\Debug\netcoreapp2.0\PasscodeChallenge.dll
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\bin\Debug\netcoreapp2.0\PasscodeChallenge.pdb
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\obj\Debug\netcoreapp2.0\PasscodeChallenge.csprojResolveAssemblyReference.cache
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\obj\Debug\netcoreapp2.0\PasscodeChallenge.csproj.CoreCompileInputs.cache
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\obj\Debug\netcoreapp2.0\PasscodeChallenge.AssemblyInfoInputs.cache
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\obj\Debug\netcoreapp2.0\PasscodeChallenge.AssemblyInfo.cs
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\obj\Debug\netcoreapp2.0\PasscodeChallenge.dll
+D:\Code\C#\Learning C#\PasscodeChallenge\PasscodeChallenge\obj\Debug\netcoreapp2.0\PasscodeChallenge.pdb
