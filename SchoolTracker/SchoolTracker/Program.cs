@@ -6,14 +6,26 @@ namespace SchoolTracker
     {
         static void Main(string[] args)
         {
-            var studentGrades = new int[] {80, 77, 45, 87, 53, 43, 67, 24, 86, 98 };
+            Console.WriteLine("How many srudents iin your class?");
+            var studentCount = int.Parse(Console.ReadLine());
 
-            foreach (var studentGrade in studentGrades)
+            var studentNames = new string[studentCount];
+            var studentGrades = new int[studentCount];
+
+            for (int i = 0; i < studentCount; i++)
             {
-                Console.WriteLine(studentGrade);
+                Console.Write("Student Name: ");
+                studentNames[i] = Console.ReadLine();
+
+                Console.Write("Student Grade: ");
+                studentGrades[i] = int.Parse(Console.ReadLine());
+
             }
 
-            
+            for (int i = 0; i < studentCount; i++)
+            {
+                Console.WriteLine("Name: {0}, Grade: {1}", studentNames[i], studentGrades[i]);
+            }
         }
     }
 }
