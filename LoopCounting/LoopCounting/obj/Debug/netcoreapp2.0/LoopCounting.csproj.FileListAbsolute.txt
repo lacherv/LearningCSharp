@@ -1,0 +1,11 @@
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\bin\Debug\netcoreapp2.0\LoopCounting.deps.json
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\bin\Debug\netcoreapp2.0\LoopCounting.runtimeconfig.json
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\bin\Debug\netcoreapp2.0\LoopCounting.runtimeconfig.dev.json
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\bin\Debug\netcoreapp2.0\LoopCounting.dll
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\bin\Debug\netcoreapp2.0\LoopCounting.pdb
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\obj\Debug\netcoreapp2.0\LoopCounting.csprojResolveAssemblyReference.cache
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\obj\Debug\netcoreapp2.0\LoopCounting.csproj.CoreCompileInputs.cache
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\obj\Debug\netcoreapp2.0\LoopCounting.AssemblyInfoInputs.cache
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\obj\Debug\netcoreapp2.0\LoopCounting.AssemblyInfo.cs
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\obj\Debug\netcoreapp2.0\LoopCounting.dll
+D:\Code\C#\Learning C#\LoopCounting\LoopCounting\obj\Debug\netcoreapp2.0\LoopCounting.pdb
