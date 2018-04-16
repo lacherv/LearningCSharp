@@ -1,0 +1,11 @@
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\bin\Debug\netcoreapp2.0\SurveyChallenge.deps.json
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\bin\Debug\netcoreapp2.0\SurveyChallenge.runtimeconfig.json
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\bin\Debug\netcoreapp2.0\SurveyChallenge.runtimeconfig.dev.json
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\bin\Debug\netcoreapp2.0\SurveyChallenge.dll
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\bin\Debug\netcoreapp2.0\SurveyChallenge.pdb
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\obj\Debug\netcoreapp2.0\SurveyChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\obj\Debug\netcoreapp2.0\SurveyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\obj\Debug\netcoreapp2.0\SurveyChallenge.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\obj\Debug\netcoreapp2.0\SurveyChallenge.AssemblyInfo.cs
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\obj\Debug\netcoreapp2.0\SurveyChallenge.dll
+C:\Users\Christian\source\repos\SurveyChallenge\SurveyChallenge\obj\Debug\netcoreapp2.0\SurveyChallenge.pdb
